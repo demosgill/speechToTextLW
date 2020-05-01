@@ -10,3 +10,6 @@ The first part will install the package, while the second excerpt will use your 
 The output (default.txt) is a text file containing the transcription of your audio into text readable format.
 
 See more here: https://test.pypi.org/project/SpeechToText-GD/1.0.1/
+
+One can also install the package directly through the Python repository using:
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps SpeechToText_GD
